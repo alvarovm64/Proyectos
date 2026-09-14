@@ -16,9 +16,9 @@ function Hero() {
           Estilo moderno, atención profesional y resultados que marcan la diferencia.
         </p>
 
-        <button className="bg-white text-black px-8 py-3 rounded-full font-semibold hover:bg-zinc-300 transition">
+        <a href="#reservar" className="bg-white text-black px-8 py-3 rounded-full font-semibold hover:bg-zinc-300 transition">
           Reservar cita
-        </button>
+        </a>
 
       </div>
 
